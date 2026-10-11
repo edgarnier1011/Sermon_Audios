@@ -1,0 +1,3 @@
+The only relevant file is the welcome_screen and navigation_screen dart files. The other ones were used during the first versions of the app when sign up feature existed, but was removed
+because it was found irrelevant to require users to sign up given that the users were not using the features of submitting text, narrations and chats. Users were only reading files, so all
+aspects of social features were removed.
